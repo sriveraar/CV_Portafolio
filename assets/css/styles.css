@@ -40,3 +40,10 @@ footer {
     padding: 20px;
     margin: 20px;
 }
+
+/* Edit Fork Genesis Valdebenito */
+#formatotext{
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
